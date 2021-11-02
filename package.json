@@ -1,0 +1,27 @@
+{
+  "name": "@distopik/audiocloud-types",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts",
+  "description": "AudioCloud Types",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc"
+  },
+  "keywords": [],
+  "author": "Bojan Šernek",
+  "license": "ISC",
+  "dependencies": {
+    "@sinclair/typebox": "^0.20.5"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  },
+  "prettier": {
+    "semi": false,
+    "printWidth": 120
+  }
+}
