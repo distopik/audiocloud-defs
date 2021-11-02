@@ -1,5 +1,5 @@
 {
-  "name": "@distopik/audiocloud-types",
+  "name": "@distopik/audiocloud-defs",
   "version": "1.0.0",
   "main": "dist/index.js",
   "files": [
